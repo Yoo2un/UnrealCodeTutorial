@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealCodeTutorial.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealCodeTutorial.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealCodeTutorialEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealCodeTutorial">
+      <UniqueIdentifier>{F764B56A-024B-3AE3-A910-59FACC884423}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealCodeTutorial\UnrealCodeTutorial.Build.cs">
+      <Filter>Source\UnrealCodeTutorial</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealCodeTutorial\UnrealCodeTutorial.cpp">
+      <Filter>Source\UnrealCodeTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCodeTutorial\UnrealCodeTutorial.h">
+      <Filter>Source\UnrealCodeTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCodeTutorial\UnrealCodeTutorialGameModeBase.cpp">
+      <Filter>Source\UnrealCodeTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCodeTutorial\UnrealCodeTutorialGameModeBase.h">
+      <Filter>Source\UnrealCodeTutorial</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

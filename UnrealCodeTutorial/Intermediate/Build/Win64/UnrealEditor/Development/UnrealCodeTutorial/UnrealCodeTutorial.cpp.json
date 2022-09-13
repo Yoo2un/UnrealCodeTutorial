@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\unrealcodetutorial\\source\\unrealcodetutorial\\unrealcodetutorial.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\unrealcodetutorial\\intermediate\\build\\win64\\unrealcodetutorialeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\unrealcodetutorial\\intermediate\\build\\win64\\unrealeditor\\development\\unrealcodetutorial\\definitions.unrealcodetutorial.h",
+            "c:\\users\\user\\documents\\unreal projects\\unrealcodetutorial\\source\\unrealcodetutorial\\unrealcodetutorial.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

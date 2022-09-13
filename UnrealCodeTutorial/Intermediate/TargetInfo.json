@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealCodeTutorial",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\UnrealCodeTutorial\\Source\\UnrealCodeTutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealCodeTutorialEditor",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\UnrealCodeTutorial\\Source\\UnrealCodeTutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
